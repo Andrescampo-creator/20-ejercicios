@@ -1,0 +1,1 @@
+numero= input('dia su edad')
