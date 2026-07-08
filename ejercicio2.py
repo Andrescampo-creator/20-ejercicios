@@ -16,7 +16,7 @@ else:
         else:
             print("No tiene envío gratuito")
     else:
-        compra = float(input("Ingrese el valor de la compra: "))
+        compra = float(input("Ingrese el valor de la compra: $"))
         if compra >= 150000:
             ciudad = input("¿La entrega es dentro de la ciudad? (SI/NO): ")
             if ciudad == "SI":
